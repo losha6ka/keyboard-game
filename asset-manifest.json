@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/keyboard-game/static/css/main.b4f10a19.css",
-    "main.js": "/keyboard-game/static/js/main.d9bec8cb.js",
+    "main.css": "/keyboard-game/static/css/main.63696f6a.css",
+    "main.js": "/keyboard-game/static/js/main.6e7e9884.js",
     "index.html": "/keyboard-game/index.html",
-    "main.b4f10a19.css.map": "/keyboard-game/static/css/main.b4f10a19.css.map",
-    "main.d9bec8cb.js.map": "/keyboard-game/static/js/main.d9bec8cb.js.map"
+    "main.63696f6a.css.map": "/keyboard-game/static/css/main.63696f6a.css.map",
+    "main.6e7e9884.js.map": "/keyboard-game/static/js/main.6e7e9884.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4f10a19.css",
-    "static/js/main.d9bec8cb.js"
+    "static/css/main.63696f6a.css",
+    "static/js/main.6e7e9884.js"
   ]
 }
